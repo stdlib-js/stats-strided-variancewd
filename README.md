@@ -259,7 +259,7 @@ console.log( v );
 
 -   <span class="package-name">[`@stdlib/stats-strided/dvariancewd`][@stdlib/stats/strided/dvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanvariancewd`][@stdlib/stats/base/nanvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array ignoring NaN values and using Welford's algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/stdevwd`][@stdlib/stats/base/stdevwd]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/stdevwd`][@stdlib/stats/strided/stdevwd]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/variance`][@stdlib/stats/strided/variance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array.</span>
 
 </section>
@@ -358,7 +358,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/nanvariancewd]: https://github.com/stdlib-js/stats-base-nanvariancewd
 
-[@stdlib/stats/base/stdevwd]: https://github.com/stdlib-js/stats-base-stdevwd
+[@stdlib/stats/strided/stdevwd]: https://github.com/stdlib-js/stats-strided-stdevwd
 
 [@stdlib/stats/strided/variance]: https://github.com/stdlib-js/stats-strided-variance
 
